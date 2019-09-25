@@ -99,7 +99,8 @@ stages:
     workspace:
       clean: all
     variables:
-      JAVA_HOME: '/Users/vsts/Library/Android/jdk/'
+    - name: JAVA_HOME
+      value: '~/Library/Android/jdk/'
     steps:
     - checkout: self
       submodules: recursive
