@@ -22,8 +22,8 @@ variables:
   TestAssembliesArtifactName: test-assemblies
   NUnitConsoleVersion: 3.9.0
   DotNetCoreVersion: 2.1.701
-  HostedMacMojave: Hosted Mac Internal Mojave
-  HostedMac: Hosted Mac Internal
+  HostedMacMojave: VSEng-Xamarin-RedmondMacMojaveBuildPool
+  HostedMac: VSEng-Xamarin-RedmondMacMojaveBuildPool
   HostedWinVS2019: Hosted Windows 2019 with VS2019
   VSEngWinVS2019: VSEng-MicroBuildVS2019
 
