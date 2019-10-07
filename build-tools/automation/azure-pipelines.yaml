@@ -98,7 +98,6 @@ stages:
     cancelTimeoutInMinutes: 5
     workspace:
       clean: all
-    variables:
     steps:
     - checkout: self
       submodules: recursive
