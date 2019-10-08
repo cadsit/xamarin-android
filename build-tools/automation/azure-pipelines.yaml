@@ -23,7 +23,7 @@ variables:
   NUnitConsoleVersion: 3.9.0
   DotNetCoreVersion: 2.1.701
   HostedMacMojave: VSEng-Xamarin-RedmondMacMojaveBuildPool
-  HostedMac: VSEng-Xamarin-RedmondMacMojaveBuildPool
+  HostedMac: VSEng-Xamarin-RedmondMacCatalinaBuildPool
   HostedWinVS2019: Hosted Windows 2019 with VS2019
   VSEngWinVS2019: VSEng-MicroBuildVS2019
 
